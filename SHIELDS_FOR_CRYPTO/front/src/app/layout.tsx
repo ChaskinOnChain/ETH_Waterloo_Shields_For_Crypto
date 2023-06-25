@@ -11,8 +11,9 @@ const lato = Lato({
 });
 
 export const metadata = {
-  title: "Sismo Connect - Onchain Tutorial",
-  description: "A simple ERC20 gated airdrop example using Sismo Connect",
+  title: "Shields For Crypto",
+  description:
+    "A digital resistance movement leveraging NFTs and blockchain platforms to promote financial autonomy and protest regulatory aggression",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

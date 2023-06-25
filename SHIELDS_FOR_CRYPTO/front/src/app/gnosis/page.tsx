@@ -152,7 +152,7 @@ export default function Home() {
                 <div className="mb-2">
                   {connectors.map((connector) => (
                     <button
-                      className="bg-violet-500 text-white w-[95%] p-4 font-bold text-2xl rounded-2xl"
+                      className="bg-green-500 text-white w-[95%] p-4 font-bold text-2xl rounded-2xl"
                       disabled={!connector.ready || isLoading}
                       key={connector.id}
                       onClick={() => connect({ connector })}
