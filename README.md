@@ -10,7 +10,7 @@ The skirmish ignited with Coinbase's defiant Stand With Crypto NFT launch, but t
 
 ## It Started With Coinbase
 
-[![coinbase](./public/coinbase.png)](https://zora.co/collect/eth:0x9d90669665607f08005cae4a7098143f554c59ef)
+[![coinbase](./SHIELDS_FOR_CRYPTO/front/public/coinbase.png)](https://zora.co/collect/eth:0x9d90669665607f08005cae4a7098143f554c59ef)
 
 ## Join The Fight
 
