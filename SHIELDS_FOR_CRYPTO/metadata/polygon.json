@@ -1,0 +1,11 @@
+{
+  "name": "PolygonShieldNFT",
+  "description": "This NFT, minted on the Polygon blockchain, stands as proof of the owner's active participation and support in the digital fight for financial autonomy.",
+  "image": "ipfs://bafybeiboxhgduxtkc3m3gpea63y4ab4eggjazpt6vysjv5e2dl3xal3ypm/",
+  "attributes": [
+    {
+      "trait_type": "Support Symbol",
+      "value": "Polygon Shield"
+    }
+  ]
+}

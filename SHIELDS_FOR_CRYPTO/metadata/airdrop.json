@@ -1,0 +1,11 @@
+{
+  "name": "ApeCoinShieldNFT",
+  "description": "This NFT, paid for with ApeCoin, stands as proof of the owner's active participation and support in the digital fight for financial autonomy.",
+  "image": "ipfs://bafybeicoptjyiy4oduor4v6v7u76ctru24ypbwx43z5muy46xw6tr4fh2y/",
+  "attributes": [
+    {
+      "trait_type": "Support Symbol",
+      "value": "ApeCoin Shield"
+    }
+  ]
+}

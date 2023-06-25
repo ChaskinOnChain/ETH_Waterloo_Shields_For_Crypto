@@ -1,0 +1,11 @@
+{
+  "name": "GnosisShieldNFT",
+  "description": "This NFT, minted on the Gnosis blockchain, stands as proof of the owner's active participation and support in the digital fight for financial autonomy.",
+  "image": "ipfs://bafybeie7etph5obfsshe7rdvc6eitmirclvlcjdvdjp2xjip2h5ttgxp6m/",
+  "attributes": [
+    {
+      "trait_type": "Support Symbol",
+      "value": "Gnosis Shield"
+    }
+  ]
+}
